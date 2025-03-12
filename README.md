@@ -7,7 +7,6 @@ This Python Desktop Cleaner organizes files in a selected folder (default: Downl
 
 - <b>os – Interact with the file system (navigate directories, check file types).</b>
 - <b>shutil – Move files to categorized folders.</b>
-- <b>tkinter – Create the graphical user interface (GUI).</b>
 
 
 <h2>Program walk-through:</h2>
