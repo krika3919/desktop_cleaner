@@ -9,4 +9,6 @@ This Python Desktop Cleaner organizes files in a selected folder (default: Downl
 - <b>shutil – Move files to categorized folders.</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>📸 Program Walkthrough:</h2>
+
+
