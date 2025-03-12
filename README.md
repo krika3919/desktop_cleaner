@@ -11,4 +11,19 @@ This Python Desktop Cleaner organizes files in a selected folder (default: Downl
 
 <h2>📸 Program Walkthrough:</h2>
 
+### 1️⃣ Before Cleaning  
+Here is a cluttered **Downloads** folder before running the program:
 
+![Before Cleaning](https://github.com/krika3919/desktop_cleaner/blob/main/desktop_cleaner_before.png?raw=true)
+
+### 2️⃣ Running the Program  
+This is the terminal displaying where the files are organized:
+
+![Running the Program](https://github.com/krika3919/desktop_cleaner/blob/main/desktop_cleaner_terminal.png?raw=true)
+
+### 3️⃣ After Cleaning  
+Files are now neatly sorted into their respective categories:
+
+![After Cleaning](https://github.com/krika3919/desktop_cleaner/blob/main/desktop_cleaner_after.png?raw=true)
+
+✨ Now my Downloads folder is **organized** and easy to navigate! 🚀
