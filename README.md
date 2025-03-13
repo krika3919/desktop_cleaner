@@ -7,6 +7,9 @@ This Python Desktop Cleaner organizes files in a selected folder (default: Downl
 
 - <b>os – Interact with the file system (navigate directories, check file types).</b>
 - <b>shutil – Move files to categorized folders.</b>
+- <b>time – Add delays for smoother execution and avoid excessive resource usage.</b>
+- <b>watchdog – Monitor file system changes in real time and trigger automatic cleaning.</b>
+
 
 
 <h2>📸 Program Walkthrough:</h2>
